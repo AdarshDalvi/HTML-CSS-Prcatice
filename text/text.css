@@ -1,0 +1,69 @@
+/* .headingtitle{
+    font-size: 18px;
+    font-family: Arial;
+    font-weight: bold;
+    width: 300px;
+    line-height: 25px;
+    margin-bottom: 2px;
+}
+
+.video-stats{
+    font-family: Arial;
+    font-size: 14px;
+    margin-top: 0px;
+    margin-bottom: 16px;
+    line-height: 20px;
+    color: rgb(96, 96, 96);
+    width: 270px;
+}
+
+.shopname{
+    text-align: center;
+    color: white;
+    font-family: Arial;
+    size: 14px;
+    padding: 16px;
+    background-color: #e34140; 
+    margin-left: 8px;
+    margin-right: 8px;
+}
+
+.shopLink{
+    transform: text-decoration 0.15s;
+    cursor: pointer;
+}
+.shopLink:hover{
+    text-decoration: underline;
+
+} */
+
+p{
+    font-family: Verdana;
+}
+
+#heading{
+    margin-bottom: 0px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#begtopro{
+    margin-top: 5px;
+    color: rgb(96, 96, 96);
+}
+
+#description{
+    width: 280px;
+    line-height: 22px;
+    size: 14px;
+    color: rgba(0, 0, 0, 1);
+}
+
+.getStarted{
+    font-family: Verdana;
+    background-color: rgb(51, 160, 0);
+    color: white;
+    border: none;
+    padding: 8px 13px;
+    border-radius: 5px;
+}
